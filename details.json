@@ -1,0 +1,58 @@
+{
+	"phones":
+		[{
+		  "image":"https://raw.githubusercontent.com/kaizapunk67/phones/master/iphone6.jpg?_sm_au_=iVVTwHM22FfwfTw3",
+		  "title":"Iphone 6",
+		  "manufacturer":"Apple",
+		  "storage":"16GB",
+		  "os":"Ios",
+   		  "camera":"10Mpx",
+		  "price":"30,000"
+		},
+		{
+		  "image":"https://raw.githubusercontent.com/kaizapunk67/phones/master/alcatel.jpg?_sm_au_=iVVTwHM22FfwfTw3",
+		  "title":"One Touch",
+		  "manufacturer":"Alcatel",
+		  "storage":"32GB",
+		  "os":"Android",
+   		  "camera":"15Mpx",
+		  "price":"17,000"
+		},
+		{
+		  "image":"https://raw.githubusercontent.com/kaizapunk67/phones/master/lenovo.jpg?_sm_au_=iVVTwHM22FfwfTw3",
+		  "title":"K8 Note",
+		  "manufacturer":"Lenovo",
+		  "storage":"16GB",
+		  "os":"Android",
+   		  "camera":"11Mpx",
+		  "price":"8000"
+		},
+		{
+		  "image":"https://raw.githubusercontent.com/kaizapunk67/phones/master/infocus.jpg?_sm_au_=iVVTwHM22FfwfTw3",
+		  "title":"Vision3",
+		  "manufacturer":"Infocus",
+		  "storage":"32GB",
+		  "os":"Windows",
+   		  "camera":"17Mpx",
+		  "price":"16,000"
+		},
+		{
+		  "image":"https://raw.githubusercontent.com/kaizapunk67/phones/master/redmi.jpg?_sm_au_=iVVTwHM22FfwfTw3",
+		  "title":"Redmi 5",
+		  "manufacturer":"Redmi",
+		  "storage":"16GB",
+		  "os":"Android",
+   		  "camera":"8Mpx",
+		  "price":"24,000"
+		},
+		{
+		  "image":"https://raw.githubusercontent.com/kaizapunk67/phones/master/nokia.jpg?_sm_au_=iVVTwHM22FfwfTw3",
+		  "title":"7 Plus",
+		  "manufacturer":"Nokia",
+		  "storage":"32GB",
+		  "os":"Windows",
+   		  "camera":"24Mpx",
+		  "price":"40,000"
+		}
+		]
+}
