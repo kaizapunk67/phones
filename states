@@ -1,6 +1,6 @@
 {
    "states":[
-      "india":[
+      "india":
       ["Andhra Pradesh",
    "Arunachal Pradesh",
    "Assam",
@@ -33,6 +33,6 @@
    "Tripura",
    "Uttar Pradesh",
    "Uttarakhand",
-   "West Bengal"]]
+   "West Bengal"]
    ]
 }
